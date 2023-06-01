@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "zuul.routes.diagnosis-service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.routes.diagnosis-service.url'"
+  },
+  {
+    "name": "zuul.routes.doctor-service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.routes.doctor-service.url'"
+  },
+  {
+    "name": "zuul.routes.doctor-service.path",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.routes.doctor-service.path'"
+  }
+]}
